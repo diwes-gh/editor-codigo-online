@@ -1,2 +1,1 @@
-# editor-codigo-online
-Editor código online DIWES
+# Editor código online DIWES
